@@ -1,11 +1,11 @@
 {
-  "name": "blog",
+  "name": "vuepress-theme-hope-template",
   "version": "1.0.0",
-  "description": "个人博客",
+  "description": "Template for vuepress-theme-hope",
   "scripts": {
     "serve": "vuepress dev src",
     "cleanServe": "vuepress dev src --no-cache",
-    "build": "vuepress build src",
+    "build": "set VuePress_BASE=/vuepress-theme-hope-template& vuepress build src",
     "test": "echo \"Warning: no test specified\" && exit 0"
   },
   "author": "Mr.Hope",
