@@ -5,7 +5,7 @@
   "scripts": {
     "serve": "vuepress dev src",
     "cleanServe": "vuepress dev src --no-cache",
-    "build": "set VuePress_BASE=/vuepress-theme-hope-template& vuepress build src",
+    "build": "set VuePress_BASE='/vuepress-theme-hope-template' && vuepress build src",
     "test": "echo \"Warning: no test specified\" && exit 0"
   },
   "author": "Mr.Hope",
