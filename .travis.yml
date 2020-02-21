@@ -13,6 +13,7 @@ jobs:
       deploy:
         provider: pages
         local_dir: dist
+        edge: true
         token: $Github_Token
 
     # 检测 work 分支
