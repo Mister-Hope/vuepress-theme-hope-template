@@ -1,0 +1,27 @@
+language: node_js
+os: linux
+node_js:
+  - lts/*
+install: yarn install
+jobs:
+  include:
+    # 部署 master 分支
+    - stage: deployMaster
+      name: "Deploy Master branch"
+      script: 
+        - yarn run build
+      deploy:
+        provider: pages
+        local_dir: dist
+        token: $Github_Token
+
+    # 检测 work 分支
+    - stage: check
+      name: "Check build status"
+      script: yarn run build
+
+stages:
+  - name: deployMaster
+    if: branch = master
+  - name: check
+    if: branch != master
