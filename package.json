@@ -18,7 +18,7 @@
     "@mr-hope/vuepress-theme-types": "0.1.0-beta.36",
     "typescript": "3.8.3",
     "vuepress": "1.4.0",
-    "vuepress-theme-hope": "0.1.0-beta.36"
+    "vuepress-theme-hope": "0.1.0-beta.37"
   },
   "devDependencies": {
     "@typescript-eslint/eslint-plugin": "2.24.0",
