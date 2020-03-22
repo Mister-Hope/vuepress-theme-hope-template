@@ -6,6 +6,8 @@ footer: true
 
 # 默认页脚
 
+下面是默认页脚
+
 ```yml
 ---
 footer: true

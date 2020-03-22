@@ -30,8 +30,7 @@
     "strictPropertyInitialization": true,
     "target": "ES6",
     "types": [
-      "@mr-hope/vuepress-theme-types",
-      "vuepress-types"
+      "@mr-hope/vuepress-theme-types"
     ]
   },
   "include": [
