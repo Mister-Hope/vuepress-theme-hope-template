@@ -850,12 +850,12 @@
     event-target-shim "^5.0.1"
     miniprogram-api-typings "^2.10.2"
 
-"@mr-hope/vuepress-plugin-comment@^0.1.0-rc.10":
-  version "0.1.0-rc.10"
-  resolved "https://registry.npm.taobao.org/@mr-hope/vuepress-plugin-comment/download/@mr-hope/vuepress-plugin-comment-0.1.0-rc.10.tgz#7b8cc94bca8f3a57e154e9a4b139a238abd7bbc8"
-  integrity sha1-e4zJS8qPOlfhVOmksTmiOKvXu8g=
+"@mr-hope/vuepress-plugin-comment@^0.1.0-rc.10", "@mr-hope/vuepress-plugin-comment@^0.1.0-rc.11":
+  version "0.1.0-rc.11"
+  resolved "https://registry.yarnpkg.com/@mr-hope/vuepress-plugin-comment/-/vuepress-plugin-comment-0.1.0-rc.11.tgz#b509aafaae72ec838c58e2b2af2b9f8880f02870"
+  integrity sha512-pDnZoR884QOPu21Oq+HY0gqKK/FiPnHoUsNO4v3xLY38G+7aRlt9oKd4AuioLgHwJ3GzitAOd5vhnzGuO5cqqw==
   dependencies:
-    "@mr-hope/vuepress-shared-utils" "^0.1.0-rc.10"
+    "@mr-hope/vuepress-shared-utils" "^0.1.0-rc.11"
     "@vssue/api-bitbucket-v2" "^1.4.0"
     "@vssue/api-gitea-v1" "^1.4.2"
     "@vssue/api-gitee-v5" "^1.4.0"
@@ -864,7 +864,7 @@
     "@vssue/api-gitlab-v4" "^1.4.0"
     "@vssue/vuepress-plugin-vssue" "^1.4.3"
     leancloud-storage "^4.5.3"
-    valine "^1.4.4"
+    valine "^1.4.11"
     vssue "^1.4.3"
     vuepress-plugin-typescript "^0.2.0"
 
@@ -879,17 +879,17 @@
     screenfull "5.0.2"
     vuepress-plugin-typescript "^0.2.0"
 
-"@mr-hope/vuepress-plugin-pwa@^0.1.0-rc.10":
-  version "0.1.0-rc.10"
-  resolved "https://registry.npm.taobao.org/@mr-hope/vuepress-plugin-pwa/download/@mr-hope/vuepress-plugin-pwa-0.1.0-rc.10.tgz#617c02d2e62ade435de87c752eb8e7d84a083935"
-  integrity sha1-YXwC0uYq3kNd6Hx1Lrjn2EoIOTU=
+"@mr-hope/vuepress-plugin-pwa@^0.1.0-rc.10", "@mr-hope/vuepress-plugin-pwa@^0.1.0-rc.11":
+  version "0.1.0-rc.11"
+  resolved "https://registry.yarnpkg.com/@mr-hope/vuepress-plugin-pwa/-/vuepress-plugin-pwa-0.1.0-rc.11.tgz#d6a32a86c25e122952210f5801affc2066449bcb"
+  integrity sha512-+sbEPTqCO8o/3osAl9k/SxYxYoViHIRWyJhlI7YmfS9E+XF15yqOnk8wN7IWxQWBy5XCoOowCW5xF4aAs1JHsg==
   dependencies:
-    "@mr-hope/vuepress-shared-utils" "^0.1.0-rc.10"
+    "@mr-hope/vuepress-shared-utils" "^0.1.0-rc.11"
     "@types/fs-extra" "^8.1.0"
-    "@vuepress/shared-utils" "^1.4.0"
+    "@vuepress/shared-utils" "^1.4.1"
     register-service-worker "^1.7.1"
     vuepress-plugin-typescript "^0.2.0"
-    workbox-build "^5.1.2"
+    workbox-build "^5.1.3"
 
 "@mr-hope/vuepress-plugin-theme-color@0.1.0-rc.8":
   version "0.1.0-rc.8"
@@ -904,13 +904,18 @@
   resolved "https://registry.npm.taobao.org/@mr-hope/vuepress-shared-utils/download/@mr-hope/vuepress-shared-utils-0.1.0-rc.10.tgz#b6e72cb5b7b250fce24af71c99b4318805208516"
   integrity sha1-tucstbeyUPziSvccmbQxiAUghRY=
 
-"@mr-hope/vuepress-theme-types@0.1.0-rc.10", "@mr-hope/vuepress-theme-types@^0.1.0-rc.10":
-  version "0.1.0-rc.10"
-  resolved "https://registry.npm.taobao.org/@mr-hope/vuepress-theme-types/download/@mr-hope/vuepress-theme-types-0.1.0-rc.10.tgz#772ceab7316716024a4ac95f92e73712c7fecc0b"
-  integrity sha1-dyzqtzFnFgJKSslfkuc3Esf+zAs=
+"@mr-hope/vuepress-shared-utils@^0.1.0-rc.11":
+  version "0.1.0-rc.11"
+  resolved "https://registry.yarnpkg.com/@mr-hope/vuepress-shared-utils/-/vuepress-shared-utils-0.1.0-rc.11.tgz#4aba22ec2df465347132b334701c4509fe14d4ee"
+  integrity sha512-tHqOSqBebqZoe5QenLAzRwqHvjQsqomzpGHibFzySlvwMwHJwFPEfLz6Ameixblr98VifEBJgfmvnmXcXl/odw==
+
+"@mr-hope/vuepress-theme-types@0.1.0-rc.11", "@mr-hope/vuepress-theme-types@^0.1.0-rc.10":
+  version "0.1.0-rc.11"
+  resolved "https://registry.yarnpkg.com/@mr-hope/vuepress-theme-types/-/vuepress-theme-types-0.1.0-rc.11.tgz#b8ad7411b965a8f3e09eae4916ffc36b868352ab"
+  integrity sha512-NKlhnevxMjzTxAV9Rnx/78CLNCgHlmmDObAikSzJKW0UI54iM80poGzNZo38C3FsadhP8Ivc0nndPTYavYobsQ==
   dependencies:
-    "@mr-hope/vuepress-plugin-comment" "^0.1.0-rc.10"
-    "@mr-hope/vuepress-plugin-pwa" "^0.1.0-rc.10"
+    "@mr-hope/vuepress-plugin-comment" "^0.1.0-rc.11"
+    "@mr-hope/vuepress-plugin-pwa" "^0.1.0-rc.11"
     "@mr-hope/vuepress-plugin-theme-color" "0.1.0-rc.8"
     vuepress-types "0.9.1"
 
@@ -1520,6 +1525,21 @@
   version "1.4.0"
   resolved "https://registry.npm.taobao.org/@vuepress/shared-utils/download/@vuepress/shared-utils-1.4.0.tgz#ab4bfcd5c1e3d0e5e384e0c1d0bb86470430c87e"
   integrity sha1-q0v81cHj0OXjhODB0LuGRwQwyH4=
+  dependencies:
+    chalk "^2.3.2"
+    diacritics "^1.3.0"
+    escape-html "^1.0.3"
+    fs-extra "^7.0.1"
+    globby "^9.2.0"
+    gray-matter "^4.0.1"
+    hash-sum "^1.0.2"
+    semver "^6.0.0"
+    upath "^1.1.0"
+
+"@vuepress/shared-utils@^1.4.1":
+  version "1.4.1"
+  resolved "https://registry.yarnpkg.com/@vuepress/shared-utils/-/shared-utils-1.4.1.tgz#d09fcd742111f2efeef93b9c9b353bcd8202ae97"
+  integrity sha512-FBUHFhvR7vk6glQy/qUntBz8bVeWiNYZ2/G16EKaerKKn15xAiD7tUFCQ3L/KjtQJ8TV38GK47UEXh7UTcRwQg==
   dependencies:
     chalk "^2.3.2"
     diacritics "^1.3.0"
@@ -8532,10 +8552,10 @@ uuid@^3.0.0, uuid@^3.0.1, uuid@^3.3.2:
   resolved "https://registry.npm.taobao.org/uuid/download/uuid-3.4.0.tgz?cache=0&sync_timestamp=1581938847708&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Fuuid%2Fdownload%2Fuuid-3.4.0.tgz#b23e4358afa8a202fe7a100af1f5f883f02007ee"
   integrity sha1-sj5DWK+oogL+ehAK8fX4g/AgB+4=
 
-valine@^1.4.4:
-  version "1.4.4"
-  resolved "https://registry.npm.taobao.org/valine/download/valine-1.4.4.tgz#b0d8d97b85c256f404ecda4be02711c0a238c25e"
-  integrity sha1-sNjZe4XCVvQE7NpL4CcRwKI4wl4=
+valine@^1.4.11:
+  version "1.4.14"
+  resolved "https://registry.yarnpkg.com/valine/-/valine-1.4.14.tgz#771d103c0b87cb7aa2f0b6a4ad65cae795c92f3b"
+  integrity sha512-1gVRXZUDqzTt2I43xivOotXchGdYCCW+Av+laXImzcUVI3DrGR4AQbh3LbDsFpZq+N26u+p+qzB9mjliLYO3YQ==
   dependencies:
     balajs "^1.0.7"
     balalaika "^1.0.1"
@@ -9036,24 +9056,24 @@ window-size@^0.1.4:
   resolved "https://registry.npm.taobao.org/window-size/download/window-size-0.1.4.tgz#f8e1aa1ee5a53ec5bf151ffa09742a6ad7697876"
   integrity sha1-+OGqHuWlPsW/FR/6CXQqatdpeHY=
 
-workbox-background-sync@^5.1.2:
-  version "5.1.2"
-  resolved "https://registry.npm.taobao.org/workbox-background-sync/download/workbox-background-sync-5.1.2.tgz?cache=0&sync_timestamp=1585146759350&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Fworkbox-background-sync%2Fdownload%2Fworkbox-background-sync-5.1.2.tgz#e5f8f5a44c2a2a1b91c29904f5a5b8eaeee61f9a"
-  integrity sha1-5fj1pEwqKhuRwpkE9aW46u7mH5o=
+workbox-background-sync@^5.1.3:
+  version "5.1.3"
+  resolved "https://registry.yarnpkg.com/workbox-background-sync/-/workbox-background-sync-5.1.3.tgz#121c5cf439b627f6320ff490be65fd2bd440c6ea"
+  integrity sha512-V/R95aPxYjbKCaVzUTihrZ9ObGOnzoA5n60r0DQ747p8Pj15/dDTYixonKhhlvavTiNezUrp+wTQBvZvcd/ETA==
   dependencies:
-    workbox-core "^5.1.2"
+    workbox-core "^5.1.3"
 
-workbox-broadcast-update@^5.1.2:
-  version "5.1.2"
-  resolved "https://registry.npm.taobao.org/workbox-broadcast-update/download/workbox-broadcast-update-5.1.2.tgz?cache=0&sync_timestamp=1585146760320&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Fworkbox-broadcast-update%2Fdownload%2Fworkbox-broadcast-update-5.1.2.tgz#84143118552e08a2f2c6dd8e2367f61af74a0e16"
-  integrity sha1-hBQxGFUuCKLyxt2OI2f2GvdKDhY=
+workbox-broadcast-update@^5.1.3:
+  version "5.1.3"
+  resolved "https://registry.yarnpkg.com/workbox-broadcast-update/-/workbox-broadcast-update-5.1.3.tgz#312e0f065f06a6fb04a050143c84aa6ba0ed8add"
+  integrity sha512-HJ7FDmgweRcYp8fMiFbkmhaTjMYhMByURe5+TempnCi7cT5NNbyaG4T+rg8NWYxAeumSAB3JQF6XD/z34vRRHA==
   dependencies:
-    workbox-core "^5.1.2"
+    workbox-core "^5.1.3"
 
-workbox-build@^5.1.2:
-  version "5.1.2"
-  resolved "https://registry.npm.taobao.org/workbox-build/download/workbox-build-5.1.2.tgz?cache=0&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Fworkbox-build%2Fdownload%2Fworkbox-build-5.1.2.tgz#c460eef313ece2f988ff41006c42c5629a63e35d"
-  integrity sha1-xGDu8xPs4vmI/0EAbELFYppj410=
+workbox-build@^5.1.3:
+  version "5.1.3"
+  resolved "https://registry.yarnpkg.com/workbox-build/-/workbox-build-5.1.3.tgz#ec0dbcb7e260ad792c49407d063f4bcc8a8f08b8"
+  integrity sha512-cssa2cKAi/FNp2P2m2DjF/UsXlVX6b1HgkXOjBTraFkIeyZEKxN1F1DnxOpGkdM/bPPRa7y5OmUvjOpgOd9apA==
   dependencies:
     "@babel/core" "^7.8.4"
     "@babel/preset-env" "^7.8.4"
@@ -9077,105 +9097,105 @@ workbox-build@^5.1.2:
     strip-comments "^1.0.2"
     tempy "^0.3.0"
     upath "^1.2.0"
-    workbox-background-sync "^5.1.2"
-    workbox-broadcast-update "^5.1.2"
-    workbox-cacheable-response "^5.1.2"
-    workbox-core "^5.1.2"
-    workbox-expiration "^5.1.2"
-    workbox-google-analytics "^5.1.2"
-    workbox-navigation-preload "^5.1.2"
-    workbox-precaching "^5.1.2"
-    workbox-range-requests "^5.1.2"
-    workbox-routing "^5.1.2"
-    workbox-strategies "^5.1.2"
-    workbox-streams "^5.1.2"
-    workbox-sw "^5.1.2"
-    workbox-window "^5.1.2"
+    workbox-background-sync "^5.1.3"
+    workbox-broadcast-update "^5.1.3"
+    workbox-cacheable-response "^5.1.3"
+    workbox-core "^5.1.3"
+    workbox-expiration "^5.1.3"
+    workbox-google-analytics "^5.1.3"
+    workbox-navigation-preload "^5.1.3"
+    workbox-precaching "^5.1.3"
+    workbox-range-requests "^5.1.3"
+    workbox-routing "^5.1.3"
+    workbox-strategies "^5.1.3"
+    workbox-streams "^5.1.3"
+    workbox-sw "^5.1.3"
+    workbox-window "^5.1.3"
 
-workbox-cacheable-response@^5.1.2:
-  version "5.1.2"
-  resolved "https://registry.npm.taobao.org/workbox-cacheable-response/download/workbox-cacheable-response-5.1.2.tgz?cache=0&sync_timestamp=1585146759070&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Fworkbox-cacheable-response%2Fdownload%2Fworkbox-cacheable-response-5.1.2.tgz#416afa01c56702c9bd13042f72a28355d08e1bc5"
-  integrity sha1-QWr6AcVnAsm9EwQvcqKDVdCOG8U=
+workbox-cacheable-response@^5.1.3:
+  version "5.1.3"
+  resolved "https://registry.yarnpkg.com/workbox-cacheable-response/-/workbox-cacheable-response-5.1.3.tgz#79ec05c9f22796833d653e7cad43774a8f8bf7db"
+  integrity sha512-lOJEwK2T4KWFNdhRFUKxTPBIO5hIYm9E/nYgMq5h/IH3iHPHlBPuFwRMaQy+TTCGWWTA85NomQOjVw1bj65RLw==
   dependencies:
-    workbox-core "^5.1.2"
+    workbox-core "^5.1.3"
 
-workbox-core@^5.1.2:
-  version "5.1.2"
-  resolved "https://registry.npm.taobao.org/workbox-core/download/workbox-core-5.1.2.tgz?cache=0&sync_timestamp=1585146758223&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Fworkbox-core%2Fdownload%2Fworkbox-core-5.1.2.tgz#c0df3f74df780f63fc1568eabd64f1c4beae2de6"
-  integrity sha1-wN8/dN94D2P8FWjqvWTxxL6uLeY=
+workbox-core@^5.1.3:
+  version "5.1.3"
+  resolved "https://registry.yarnpkg.com/workbox-core/-/workbox-core-5.1.3.tgz#0607acd0018c149162777fe4aae08553bd1559f5"
+  integrity sha512-TFSIPxxciX9sFaj0FDiohBeIKpwMcCyNduydi9i3LChItcndDS6TJpErxybv8aBWeCMraXt33TWtF6kKuIObNw==
 
-workbox-expiration@^5.1.2:
-  version "5.1.2"
-  resolved "https://registry.npm.taobao.org/workbox-expiration/download/workbox-expiration-5.1.2.tgz?cache=0&sync_timestamp=1585146760692&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Fworkbox-expiration%2Fdownload%2Fworkbox-expiration-5.1.2.tgz#41d5d35b833d0fe7371b2aac0063c322d7b66ece"
-  integrity sha1-QdXTW4M9D+c3GyqsAGPDIte2bs4=
+workbox-expiration@^5.1.3:
+  version "5.1.3"
+  resolved "https://registry.yarnpkg.com/workbox-expiration/-/workbox-expiration-5.1.3.tgz#c793eef17513de86c9c1b8254eb2c9ba3ed17568"
+  integrity sha512-8YhpmIHqIx+xmtxONADc+di4a3zzCsvVHLiKq6T3vJZUPnqV2jzx+51+UHMUh3T5w5Z5SFC14l0V/jesRbuMKg==
   dependencies:
-    workbox-core "^5.1.2"
+    workbox-core "^5.1.3"
 
-workbox-google-analytics@^5.1.2:
-  version "5.1.2"
-  resolved "https://registry.npm.taobao.org/workbox-google-analytics/download/workbox-google-analytics-5.1.2.tgz?cache=0&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Fworkbox-google-analytics%2Fdownload%2Fworkbox-google-analytics-5.1.2.tgz#d605ff3b6fe5f1fd1e4957ebba59d8de8c1163f9"
-  integrity sha1-1gX/O2/l8f0eSVfrulnY3owRY/k=
+workbox-google-analytics@^5.1.3:
+  version "5.1.3"
+  resolved "https://registry.yarnpkg.com/workbox-google-analytics/-/workbox-google-analytics-5.1.3.tgz#dba0cadcf438d14389f2f2da0fd9c8cb605d35e6"
+  integrity sha512-ouK6xIJa+raFcO29TgwKFU/Hv1ejqSYzCzH9lI2B/4z/Wdnb8maL6mMIojQ8j5SohwKswMZmLDl0Az2PCmX11w==
   dependencies:
-    workbox-background-sync "^5.1.2"
-    workbox-core "^5.1.2"
-    workbox-routing "^5.1.2"
-    workbox-strategies "^5.1.2"
+    workbox-background-sync "^5.1.3"
+    workbox-core "^5.1.3"
+    workbox-routing "^5.1.3"
+    workbox-strategies "^5.1.3"
 
-workbox-navigation-preload@^5.1.2:
-  version "5.1.2"
-  resolved "https://registry.npm.taobao.org/workbox-navigation-preload/download/workbox-navigation-preload-5.1.2.tgz?cache=0&sync_timestamp=1585146714157&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Fworkbox-navigation-preload%2Fdownload%2Fworkbox-navigation-preload-5.1.2.tgz#ec09d13660895b9246a5f7cf5891d831fabe73da"
-  integrity sha1-7AnRNmCJW5JGpffPWJHYMfq+c9o=
+workbox-navigation-preload@^5.1.3:
+  version "5.1.3"
+  resolved "https://registry.yarnpkg.com/workbox-navigation-preload/-/workbox-navigation-preload-5.1.3.tgz#8e49b935aaef16ac614d06db4a0677cbd59f9cae"
+  integrity sha512-29SPQMAccOgbq3BT9Gz7k+ydy0mcKKR0Rmkmd46tnujutiL4ooE57fBhwsA+c6OlLcYdisvilKlV2YWEtKWfgQ==
   dependencies:
-    workbox-core "^5.1.2"
+    workbox-core "^5.1.3"
 
-workbox-precaching@^5.1.2:
-  version "5.1.2"
-  resolved "https://registry.npm.taobao.org/workbox-precaching/download/workbox-precaching-5.1.2.tgz?cache=0&sync_timestamp=1585146759710&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Fworkbox-precaching%2Fdownload%2Fworkbox-precaching-5.1.2.tgz#0e0feb5cc193afd5df74af0fbd18febfdf65711e"
-  integrity sha1-Dg/rXMGTr9XfdK8PvRj+v99lcR4=
+workbox-precaching@^5.1.3:
+  version "5.1.3"
+  resolved "https://registry.yarnpkg.com/workbox-precaching/-/workbox-precaching-5.1.3.tgz#08f0b48f4a390872a994c4a6ce8e43d08c6cba57"
+  integrity sha512-9jjBiB00AOI0NnI320ddnhvlL3bjMrDoI3211kEaxcRWh0N2fX25uVn0O8N8u1gWY4tIfwZAn/DgtAU13cFhYA==
   dependencies:
-    workbox-core "^5.1.2"
+    workbox-core "^5.1.3"
 
-workbox-range-requests@^5.1.2:
-  version "5.1.2"
-  resolved "https://registry.npm.taobao.org/workbox-range-requests/download/workbox-range-requests-5.1.2.tgz?cache=0&sync_timestamp=1585146710208&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Fworkbox-range-requests%2Fdownload%2Fworkbox-range-requests-5.1.2.tgz#a1f0b482227f9993f32b9a6631fa8306ff8cfb57"
-  integrity sha1-ofC0giJ/mZPzK5pmMfqDBv+M+1c=
+workbox-range-requests@^5.1.3:
+  version "5.1.3"
+  resolved "https://registry.yarnpkg.com/workbox-range-requests/-/workbox-range-requests-5.1.3.tgz#f0fc6370ea549d002af1fe902b4ee94bfef6e006"
+  integrity sha512-uUvEoyEUx86LJc7mtmy/6U8xuK0guXU2FnPimt17zDbsC8FSOaPxc92rxtD6xmDSYrI4FqIebypBCjgIe+sfxA==
   dependencies:
-    workbox-core "^5.1.2"
+    workbox-core "^5.1.3"
 
-workbox-routing@^5.1.2:
-  version "5.1.2"
-  resolved "https://registry.npm.taobao.org/workbox-routing/download/workbox-routing-5.1.2.tgz?cache=0&sync_timestamp=1585146716277&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Fworkbox-routing%2Fdownload%2Fworkbox-routing-5.1.2.tgz#912dfd06febcdcee8c575165538e3ca9e94dd427"
-  integrity sha1-kS39Bv683O6MV1FlU448qelN1Cc=
+workbox-routing@^5.1.3:
+  version "5.1.3"
+  resolved "https://registry.yarnpkg.com/workbox-routing/-/workbox-routing-5.1.3.tgz#9946da0e9ace45af3db09cc0b4bdc4696723e1f7"
+  integrity sha512-F+sAp9Iy3lVl3BEG+pzXWVq4AftzjiFpHDaZ4Kf4vLoBoKQE0hIHet4zE5DpHqYdyw+Udhp4wrfHamX6PN6z1Q==
   dependencies:
-    workbox-core "^5.1.2"
+    workbox-core "^5.1.3"
 
-workbox-strategies@^5.1.2:
-  version "5.1.2"
-  resolved "https://registry.npm.taobao.org/workbox-strategies/download/workbox-strategies-5.1.2.tgz?cache=0&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Fworkbox-strategies%2Fdownload%2Fworkbox-strategies-5.1.2.tgz#d78c9282b998330c8b47c0b2d0e42b55f1fc6dad"
-  integrity sha1-14ySgrmYMwyLR8Cy0OQrVfH8ba0=
+workbox-strategies@^5.1.3:
+  version "5.1.3"
+  resolved "https://registry.yarnpkg.com/workbox-strategies/-/workbox-strategies-5.1.3.tgz#220cc9f5519ed76f2452ccb9407a5fd967c37110"
+  integrity sha512-wiXHfmOKnWABeIVW+/ye0e00+2CcS5y7SIj2f9zcdy2ZLEbcOf7B+yOl5OrWpBGlTUwRjIYhV++ZqiKm3Dc+8w==
   dependencies:
-    workbox-core "^5.1.2"
-    workbox-routing "^5.1.2"
+    workbox-core "^5.1.3"
+    workbox-routing "^5.1.3"
 
-workbox-streams@^5.1.2:
-  version "5.1.2"
-  resolved "https://registry.npm.taobao.org/workbox-streams/download/workbox-streams-5.1.2.tgz?cache=0&sync_timestamp=1585146716988&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Fworkbox-streams%2Fdownload%2Fworkbox-streams-5.1.2.tgz#4ccb6832891e6fd6f9205b66bc8d4353ab6c50f3"
-  integrity sha1-TMtoMokeb9b5IFtmvI1DU6tsUPM=
+workbox-streams@^5.1.3:
+  version "5.1.3"
+  resolved "https://registry.yarnpkg.com/workbox-streams/-/workbox-streams-5.1.3.tgz#8f381d395ea2e57106b7b6542b9ffcd769a3047b"
+  integrity sha512-8kt70eBd1RXL0qenxEnch3Cd7VyW3O0CkeGBN4Bikt307nIV5Q0JciLA5o0CRteijawYOiTq0/px4GDBv1obgQ==
   dependencies:
-    workbox-core "^5.1.2"
-    workbox-routing "^5.1.2"
+    workbox-core "^5.1.3"
+    workbox-routing "^5.1.3"
 
-workbox-sw@^5.1.2:
-  version "5.1.2"
-  resolved "https://registry.npm.taobao.org/workbox-sw/download/workbox-sw-5.1.2.tgz?cache=0&sync_timestamp=1585146708580&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Fworkbox-sw%2Fdownload%2Fworkbox-sw-5.1.2.tgz#7018d2c465a0f126007e3ae888e8ac3aa0035770"
-  integrity sha1-cBjSxGWg8SYAfjroiOisOqADV3A=
+workbox-sw@^5.1.3:
+  version "5.1.3"
+  resolved "https://registry.yarnpkg.com/workbox-sw/-/workbox-sw-5.1.3.tgz#7bffbf034f2f5b58e1734b5b86d240019a5332bb"
+  integrity sha512-Syk6RhYr/8VdFwXrxo5IpVz8Og2xapHTWJhqsZRF+TbxSvlaJs8hrvVPd7edn5ZiiVdPhE9NTeOTOg1+D+FGoA==
 
-workbox-window@^5.1.2:
-  version "5.1.2"
-  resolved "https://registry.npm.taobao.org/workbox-window/download/workbox-window-5.1.2.tgz?cache=0&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Fworkbox-window%2Fdownload%2Fworkbox-window-5.1.2.tgz#dfcecac28919960beb83ba54c206295d1b31ffd1"
-  integrity sha1-387KwokZlgvrg7pUwgYpXRsx/9E=
+workbox-window@^5.1.3:
+  version "5.1.3"
+  resolved "https://registry.yarnpkg.com/workbox-window/-/workbox-window-5.1.3.tgz#24a2acb2903b0ff2789a4ce32f355621e769eb23"
+  integrity sha512-oYvfVtPLET7FUrhOzbk0R+aATVmpdQBkmDqwyFH4W2dfVqJXTvTXzuGP5Pn9oZ8jMTB3AYW43yhYBlLYM3mYyg==
   dependencies:
-    workbox-core "^5.1.2"
+    workbox-core "^5.1.3"
 
 worker-farm@^1.7.0:
   version "1.7.0"
