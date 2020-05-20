@@ -16,7 +16,7 @@
   ],
   "dependencies": {
     "@mr-hope/vuepress-theme-types": "0.2.0",
-    "typescript": "3.8.3",
+    "typescript": "3.9.3",
     "vuepress": "1.4.1",
     "vuepress-theme-hope": "0.2.0"
   }
