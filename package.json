@@ -18,6 +18,6 @@
     "@mr-hope/vuepress-theme-types": "0.4.0-alpha.5",
     "typescript": "3.9.3",
     "vuepress": "1.5.0",
-    "vuepress-theme-hope": "0.4.0-alpha.5"
+    "vuepress-theme-hope": "0.4.0"
   }
 }
