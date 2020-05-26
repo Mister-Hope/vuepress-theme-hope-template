@@ -69,45 +69,9 @@ module.exports = resolve({
           title: "组件测试",
           icon: "extension",
           prefix: "component/",
-          children: [
-            "",
-            "disable",
-            "pageInfo"
-          ],
+          children: ["", "disable", "pageInfo"],
         },
       ],
-    },
-
-    author: "Mr.Hope",
-    footer: {
-      content: "默认页脚",
-    },
-
-    markdown: {
-      enableAll: true,
-    },
-    comment: {
-      type: "valine",
-      appId: "msnseO76haIVIGvfJ10BKnpv-gzGzoHsz",
-      appKey: "9QMulKhu7EDp1va0TYXR2PrI",
-    },
-    encrypt: {
-      global: "01311031",
-      config: {
-        "/en/": ["1234", "5678"],
-        "/test/detail/": "1234",
-        "/test/footer/default": "5678",
-      },
-    },
-
-    blog: {
-      intro: "/test.html",
-      sidebarDisplay: "mobile",
-      links: {
-        Zhihu: "https://zhihu.com",
-        Baidu: "https://baidu.com",
-        Github: "https://github.com",
-      },
     },
 
     locales: {
@@ -123,6 +87,47 @@ module.exports = resolve({
         sidebar: [""],
       },
     },
+
+    author: "Mr.Hope",
+
+    blog: {
+      intro: "/test.html",
+      sidebarDisplay: "mobile",
+      links: {
+        Zhihu: "https://zhihu.com",
+        Baidu: "https://baidu.com",
+        Github: "https://github.com",
+      },
+    },
+
+    markdown: {
+      enableAll: true,
+    },
+
+    comment: {
+      type: "valine",
+      appId: "msnseO76haIVIGvfJ10BKnpv-gzGzoHsz",
+      appKey: "9QMulKhu7EDp1va0TYXR2PrI",
+    },
+
+    footer: {
+      content: "默认页脚",
+    },
+
+    encrypt: {
+      global: "01311031",
+      config: {
+        "/en/": ["1234", "5678"],
+        "/test/detail/": "1234",
+        "/test/footer/default": "5678",
+      },
+    },
+
+    copyright: {
+      status: "global",
+    },
+
+    hostname: "https://mister-hope.github.io/vuepress-theme-hope-template",
 
     repo: "https://github.com/mister-hope/vuepress-theme-hope",
     repoLabel: "Github",
