@@ -15,7 +15,7 @@
     "personal-blog"
   ],
   "dependencies": {
-    "@mr-hope/vuepress-theme-types": "0.6.3",
+    "@mr-hope/vuepress-theme-types": "0.6.4",
     "typescript": "3.9.3",
     "vuepress": "1.5.0",
     "vuepress-theme-hope": "0.6.3"
