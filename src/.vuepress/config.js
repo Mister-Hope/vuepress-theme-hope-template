@@ -60,7 +60,7 @@ module.exports = resolve({
         {
           title: "展示",
           icon: "extension",
-          prefix: "component/",
+          prefix: "demo/",
           children: [
             "",
             "layout",
