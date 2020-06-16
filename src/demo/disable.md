@@ -1,7 +1,8 @@
 ---
-category: component
+category: demo
 backtotop: false
 breadcrumb: false
+footer: false
 pageInfo: false
 comment: false
 ---
@@ -14,3 +15,4 @@ comment: false
 - 路径导航
 - 页面信息
 - 评论组件
+- 页脚

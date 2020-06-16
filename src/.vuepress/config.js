@@ -38,38 +38,37 @@ module.exports = resolve({
     },
   },
 
-  extraWatchFiles: [
-    ".vuepress/config/navBar.js",
-    ".vuepress/config/sideBar.js",
-    ".vuepress/config/theme.js",
-  ],
-
   themeConfig: {
     logo: "/logo.svg",
 
     nav: [
       { text: "主页", link: "/", icon: "homefill" },
       {
-        text: "组件",
-        icon: "extension",
+        text: "展示",
+        icon: "creativefill",
         link: "/component/",
       },
       {
         text: "主题文档",
-        link: "https://vuepress-theme.mrhope.site",
         icon: "note",
+        link: "https://vuepress-theme.mrhope.site",
       },
     ],
     sidebar: {
       "/": [
         "",
-        "test",
-        "encrypt",
         {
-          title: "组件测试",
+          title: "展示",
           icon: "extension",
           prefix: "component/",
-          children: ["", "disable", "pageInfo"],
+          children: [
+            "",
+            "layout",
+            "markdown",
+            "disable",
+            "encrypt",
+            "pageInfo",
+          ],
         },
       ],
     },
@@ -118,8 +117,6 @@ module.exports = resolve({
       global: "01311031",
       config: {
         "/en/": ["1234", "5678"],
-        "/test/detail/": "1234",
-        "/test/footer/default": "5678",
       },
     },
 
