@@ -1,0 +1,22 @@
+{
+  "name": "vuepress-theme-hope-template",
+  "version": "1.0.0",
+  "description": "Template for vuepress-theme-hope",
+  "scripts": {
+    "serve": "vuepress dev src",
+    "cleanServe": "vuepress dev src --no-cache",
+    "build": "vuepress build src",
+    "test": "echo \"Warning: no test specified\" && exit 0"
+  },
+  "author": "Mr.Hope",
+  "license": "MIT",
+  "keywords": [
+    "vuepress",
+    "personal-blog"
+  ],
+  "dependencies": {
+    "typescript": "3.9.5",
+    "vuepress": "1.5.2",
+    "vuepress-theme-hope": "0.7.0-alpha.1"
+  }
+}
