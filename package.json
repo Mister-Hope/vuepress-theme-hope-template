@@ -17,6 +17,6 @@
   "dependencies": {
     "typescript": "3.9.7",
     "vuepress": "1.5.3",
-    "vuepress-theme-hope": "0.7.1"
+    "vuepress-theme-hope": "0.7.2"
   }
 }
