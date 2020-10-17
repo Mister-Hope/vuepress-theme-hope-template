@@ -1,6 +1,6 @@
-const resolve = require("vuepress-theme-hope/resolve");
+const { config } = require("vuepress-theme-hope");
 
-module.exports = resolve({
+module.exports = config({
   title: "Theme Demo",
   description: "vuepress-theme-hope 的 demo",
 
@@ -39,6 +39,7 @@ module.exports = resolve({
   },
 
   themeConfig: {
+    baseLang: 'zh-CN',
     logo: "/logo.svg",
 
     nav: [
@@ -99,10 +100,6 @@ module.exports = resolve({
       },
     },
 
-    markdown: {
-      enableAll: true,
-    },
-
     comment: {
       type: "valine",
       appId: "msnseO76haIVIGvfJ10BKnpv-gzGzoHsz",
@@ -111,6 +108,10 @@ module.exports = resolve({
 
     footer: {
       content: "默认页脚",
+    },
+
+    mdEnhance: {
+      enableAll: true,
     },
 
     encrypt: {
