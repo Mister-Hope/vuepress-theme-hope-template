@@ -47,7 +47,7 @@ module.exports = config({
       {
         text: "展示",
         icon: "creativefill",
-        link: "/component/",
+        link: "/demo/",
       },
       {
         text: "主题文档",
