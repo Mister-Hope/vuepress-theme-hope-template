@@ -37,7 +37,12 @@ module.exports = config({
 
   themeConfig: {
     logo: "/logo.svg",
-    hostname: "https://vuepress-theme-demo.mrhope.site/",
+    hostname: "https://vuepress-theme-hope-demo.mrhope.site",
+
+    author: "Mr.Hope",
+    repo: "https://github.com/vuepress-theme-hope/vuepress-theme-hope",
+    docsRepo: "https://github.com/vuepress-theme-hope/demo",
+    docsDir: "src",
 
     nav: [
       { text: "Blog Home", link: "/", icon: "home" },
@@ -49,7 +54,7 @@ module.exports = config({
       },
       {
         text: "Docs",
-        link: "https://vuepress-theme.mrhope.site/",
+        link: "https://vuepress-theme-hope.github.io/",
         icon: "note",
       },
     ],
@@ -81,7 +86,7 @@ module.exports = config({
           {
             text: "主题文档",
             icon: "note",
-            link: "https://vuepress-theme.mrhope.site/zh/",
+            link: "https://vuepress-theme-hope.github.io/zh/",
           },
         ],
         sidebar: {
@@ -100,8 +105,6 @@ module.exports = config({
       },
     },
 
-    author: "Mr.Hope",
-
     blog: {
       intro: "/intro/",
       sidebarDisplay: "mobile",
@@ -112,19 +115,21 @@ module.exports = config({
       },
     },
 
+    footer: {
+      display: true,
+      content: "默认页脚",
+    },
+
     comment: {
       type: "valine",
       appId: "msnseO76haIVIGvfJ10BKnpv-gzGzoHsz",
       appKey: "9QMulKhu7EDp1va0TYXR2PrI",
     },
 
-    copyright: {
-      status: "global",
-    },
+    copyright: true,
 
-    footer: {
-      display: true,
-      content: "默认页脚",
+    lastUpdate: {
+      timezone: "Asia/Shanghai",
     },
 
     mdEnhance: {
@@ -203,13 +208,5 @@ module.exports = config({
         ],
       },
     },
-
-    lastUpdate: {
-      // set it to your timezone
-      timezone: "Asia/Shanghai",
-    },
-
-    repo: "https://github.com/mister-hope/vuepress-theme-hope",
-    repoLabel: "Github",
   },
 });

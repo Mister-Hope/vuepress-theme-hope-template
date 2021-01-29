@@ -1,10 +1,17 @@
-# vuepress-theme-hope template
+<!-- markdownlint-disable -->
+<p align="center">
+  <img width="240" src="https://vuepress-theme-hope.github.io/logo.svg" style="text-align: center;"/>
+</p>
+<h1 align="center">vuepress-theme-hope</h1>
+<h4 align="center">A vuepress theme with tons of features✨ / 一个具有强大功能的 vuepress 主题✨</h4>
 
-**Template for [vuepress-theme-hope](https://github.com/Mister-Hope/vuepress-theme-hope).**
+## This is a template for [vuepress-theme-hope](https://vuepress-theme-hope.github.io)
 
-You can begin your vuepress-theme-hope trip by creating a repo from this template.
+<!-- markdownlint-restore -->
 
-> Please report bugs on [main repo](https://github.com/Mister-Hope/vuepress-theme-hope)
+### You can begin your vuepress-theme-hope trip by creating a repo from this template
+
+> ⚠ Please report bugs or start discusstions on [main repo](https://github.com/vuepress-theme-hope/vuepress-theme-hope)
 
 - Install deps:
 
@@ -20,9 +27,11 @@ You can begin your vuepress-theme-hope trip by creating a repo from this templat
 
 ---
 
-vuepress-theme-hope 的模板。
+## 这是 [vuepress-theme-hope](https://vuepress-theme-hope.github.io/zh/) 的模板
 
-你可以直接使用它来开始你的 vuepress-theme-hope 之旅。
+### 你可以直接使用它来开始你的 vuepress-theme-hope 之旅
+
+> ⚠ 请在 [主仓库](https://github.com/vuepress-theme-hope/vuepress-theme-hope) 发起讨论或反馈 bug。
 
 - 安装依赖:
 
