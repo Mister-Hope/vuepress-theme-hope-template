@@ -6,7 +6,7 @@
   <author>
     <name>Mr.Hope</name>
   </author>
-  <updated>2021-02-28T07:49:49.021Z</updated>
+  <updated>2021-02-28T08:23:49.321Z</updated>
   <generator>@mr-hope/vuepress-plugin-feed</generator>
   <link rel="self" href="https://vuepress-theme-hope-demo.mrhope.site/vuepress-theme-hope-template/atom.xml"/>
   <link rel="alternate" href="https://vuepress-theme-hope-demo.mrhope.site/vuepress-theme-hope-template/"/>
@@ -23,7 +23,7 @@
     <title type="html">Component disabled</title>
     <id>https://vuepress-theme-hope-demo.mrhope.site/vuepress-theme-hope-template/guide/disable/</id>
     <link href="https://vuepress-theme-hope-demo.mrhope.site/vuepress-theme-hope-template/guide/disable/"/>
-    <updated>2021-02-28T07:48:44.000Z</updated>
+    <updated>2021-02-28T08:22:25.000Z</updated>
     <summary type="html"><![CDATA[<p>You can disable some functions on the page by setting the Frontmatter of the page.</p>
 ]]></summary>
     <content type="html"><![CDATA[<p>You can disable some functions on the page by setting the Frontmatter of the page.</p>
@@ -50,7 +50,7 @@
     <title type="html">Encryption article</title>
     <id>https://vuepress-theme-hope-demo.mrhope.site/vuepress-theme-hope-template/guide/encrypt/</id>
     <link href="https://vuepress-theme-hope-demo.mrhope.site/vuepress-theme-hope-template/guide/encrypt/"/>
-    <updated>2021-02-28T07:48:44.000Z</updated>
+    <updated>2021-02-28T08:22:25.000Z</updated>
     <content type="html"><![CDATA[<h1 id="encryption-article"> Encryption article</h1>
 <p>The actual article content.</p>
 <p>Paragraph 1 text paragraph 1 text paragraph 1 text paragraph 1 text paragraph 1 text paragraph 1 text paragraph 1 text paragraph 1 text paragraph 1 text paragraph 1 text paragraph 1 text paragraph 1 text.</p>
@@ -69,7 +69,7 @@
     <title type="html">Markdown Enhance</title>
     <id>https://vuepress-theme-hope-demo.mrhope.site/vuepress-theme-hope-template/guide/markdown/</id>
     <link href="https://vuepress-theme-hope-demo.mrhope.site/vuepress-theme-hope-template/guide/markdown/"/>
-    <updated>2021-02-28T07:48:44.000Z</updated>
+    <updated>2021-02-28T08:22:25.000Z</updated>
     <summary type="html"><![CDATA[<p><code>vuepress-theme-hope</code> enables more syntax in Markdown via the built-in <a href="https://vuepress-theme-hope.github.io/md-enhance" target="_blank" rel="noopener noreferrer">md-enhance</a> plugin.</p>
 ]]></summary>
     <content type="html"><![CDATA[<p><code>vuepress-theme-hope</code> enables more syntax in Markdown via the built-in <a href="https://vuepress-theme-hope.github.io/md-enhance" target="_blank" rel="noopener noreferrer">md-enhance</a> plugin.</p>
@@ -91,7 +91,7 @@
 </code></pre>
 <div><span>1</span><br></div></div></details>
 <ul>
-<li><a href="https://vuepress-theme-hope.github.io/guide/feature/markdown/sup-sub/" target="_blank" rel="noopener noreferrer">View Detail</a></li>
+<li><a href="https://vuepress-theme-hope.github.io/guide/markdown/sup-sub/" target="_blank" rel="noopener noreferrer">View Detail</a></li>
 </ul>
 <h3 id="align"> Align</h3>
 <div>
@@ -115,7 +115,7 @@ I am right align
 </code></pre>
 <div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br></div></div></details>
 <ul>
-<li><a href="https://vuepress-theme-hope.github.io/guide/feature/markdown/align/" target="_blank" rel="noopener noreferrer">View Detail</a></li>
+<li><a href="https://vuepress-theme-hope.github.io/guide/markdown/align/" target="_blank" rel="noopener noreferrer">View Detail</a></li>
 </ul>
 <h3 id="footnote"> Footnote</h3>
 <p>This text has footnote<sup></sup>.</p>
@@ -126,7 +126,7 @@ I am right align
 </code></pre>
 <div><span>1</span><br><span>2</span><br><span>3</span><br></div></div></details>
 <ul>
-<li><a href="https://vuepress-theme-hope.github.io/guide/feature/markdown/footnote/" target="_blank" rel="noopener noreferrer">View Detail</a></li>
+<li><a href="https://vuepress-theme-hope.github.io/guide/markdown/footnote/" target="_blank" rel="noopener noreferrer">View Detail</a></li>
 </ul>
 <h3 id="mark"> Mark</h3>
 <p>You can mark <mark>important words</mark> .</p>
@@ -135,7 +135,7 @@ I am right align
 </code></pre>
 <div><span>1</span><br></div></div></details>
 <ul>
-<li><a href="https://vuepress-theme-hope.github.io/guide/feature/markdown/mark/" target="_blank" rel="noopener noreferrer">View Detail</a></li>
+<li><a href="https://vuepress-theme-hope.github.io/guide/markdown/mark/" target="_blank" rel="noopener noreferrer">View Detail</a></li>
 </ul>
 <h3 id="flowchart"> Flowchart</h3>
 <i>Not supported content</i><details><summary>Code</summary>
@@ -150,7 +150,7 @@ cond(no)->e
 </code></pre>
 <div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br></div></div></details>
 <ul>
-<li><a href="https://vuepress-theme-hope.github.io/guide/feature/markdown/flowchart/" target="_blank" rel="noopener noreferrer">View Detail</a></li>
+<li><a href="https://vuepress-theme-hope.github.io/guide/markdown/flowchart/" target="_blank" rel="noopener noreferrer">View Detail</a></li>
 </ul>
 <h3 id="tex"> Tex</h3>
 <p class='katex-block'><span><span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:2.40003em;vertical-align:-0.95003em;"></span><span><span></span><span><span><span><span style="height:1.37144em;"><span style="top:-2.314em;"><span style="height:3em;"></span><span><span style="margin-right:0.05556em;">∂</span><span><span style="margin-right:0.03588em;">ω</span><span><span><span><span style="height:0.590392em;"><span style="top:-2.9890000000000003em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span style="margin-right:0.02778em;">r</span></span></span></span></span></span></span></span></span></span><span style="top:-3.23em;"><span style="height:3em;"></span><span style="border-bottom-width:0.04em;"></span></span><span style="top:-3.677em;"><span style="height:3em;"></span><span><span><span style="margin-right:0.05556em;">∂</span><span><span><span><span style="height:0.664392em;"><span style="top:-3.063em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span style="margin-right:0.02778em;">r</span></span></span></span></span></span></span></span></span></span></span><span>​</span></span><span><span style="height:0.686em;"><span></span></span></span></span></span><span></span></span><span style="margin-right:0.16666666666666666em;"></span><span><span style="top:0em;"><span>(</span></span><span><span></span><span><span><span><span style="height:1.341392em;"><span style="top:-2.314em;"><span style="height:3em;"></span><span><span style="margin-right:0.03588em;">ω</span></span></span><span style="top:-3.23em;"><span style="height:3em;"></span><span style="border-bottom-width:0.04em;"></span></span><span style="top:-3.677em;"><span style="height:3em;"></span><span><span><span style="margin-right:0.03588em;">y</span><span><span><span><span style="height:0.664392em;"><span style="top:-3.063em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span><span style="margin-right:0.03588em;">ω</span></span></span></span></span></span></span></span></span></span></span></span><span>​</span></span><span><span style="height:0.686em;"><span></span></span></span></span></span><span></span></span><span style="top:0em;"><span>)</span></span></span><span style="margin-right:0.2777777777777778em;"></span><span>=</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:3.027669em;vertical-align:-1.277669em;"></span><span><span style="top:0em;"><span>(</span></span><span><span></span><span><span><span><span style="height:1.341392em;"><span style="top:-2.314em;"><span style="height:3em;"></span><span><span style="margin-right:0.03588em;">ω</span></span></span><span style="top:-3.23em;"><span style="height:3em;"></span><span style="border-bottom-width:0.04em;"></span></span><span style="top:-3.677em;"><span style="height:3em;"></span><span><span><span style="margin-right:0.03588em;">y</span><span><span><span><span style="height:0.664392em;"><span style="top:-3.063em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span><span style="margin-right:0.03588em;">ω</span></span></span></span></span></span></span></span></span></span></span></span><span>​</span></span><span><span style="height:0.686em;"><span></span></span></span></span></span><span></span></span><span style="top:0em;"><span>)</span></span></span><span style="margin-right:0.16666666666666666em;"></span><span><span style="top:0em;"><span>{</span></span><span>(</span><span>lo<span style="margin-right:0.01389em;">g</span></span><span style="margin-right:0.16666666666666666em;"></span><span style="margin-right:0.03588em;">y</span><span><span>)</span><span><span><span><span style="height:0.7143919999999999em;"><span style="top:-3.113em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span style="margin-right:0.02778em;">r</span></span></span></span></span></span></span></span><span style="margin-right:0.2222222222222222em;"></span><span>+</span><span style="margin-right:0.2222222222222222em;"></span><span><span><span><span style="height:1.6513970000000002em;"><span style="top:-1.872331em;margin-left:0em;"><span style="height:3.05em;"></span><span><span><span>i</span><span>=</span><span>1</span></span></span></span><span style="top:-3.050005em;"><span style="height:3.05em;"></span><span><span>∑</span></span></span><span style="top:-4.3000050000000005em;margin-left:0em;"><span style="height:3.05em;"></span><span><span style="margin-right:0.02778em;">r</span></span></span></span><span>​</span></span><span><span style="height:1.277669em;"><span></span></span></span></span></span><span style="margin-right:0.16666666666666666em;"></span><span><span></span><span><span><span><span style="height:1.5016639999999999em;"><span style="top:-2.314em;"><span style="height:3em;"></span><span><span><span style="margin-right:0.03588em;">ω</span><span><span><span><span style="height:0.750664em;"><span style="top:-2.9890000000000003em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>i</span></span></span></span></span></span></span></span></span></span><span style="top:-3.23em;"><span style="height:3em;"></span><span style="border-bottom-width:0.04em;"></span></span><span style="top:-3.677em;"><span style="height:3em;"></span><span><span>(</span><span>−</span><span>1</span><span><span>)</span><span><span><span><span style="height:0.824664em;"><span style="top:-3.063em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>i</span></span></span></span></span></span></span></span><span style="margin-right:0.02778em;">r</span><span style="margin-right:0.16666666666666666em;"></span><span>⋯</span><span style="margin-right:0.16666666666666666em;"></span><span>(</span><span style="margin-right:0.02778em;">r</span><span style="margin-right:0.2222222222222222em;"></span><span>−</span><span style="margin-right:0.2222222222222222em;"></span><span>i</span><span style="margin-right:0.2222222222222222em;"></span><span>+</span><span style="margin-right:0.2222222222222222em;"></span><span>1</span><span>)</span><span>(</span><span>lo<span style="margin-right:0.01389em;">g</span></span><span style="margin-right:0.16666666666666666em;"></span><span style="margin-right:0.03588em;">y</span><span><span>)</span><span><span><span><span style="height:0.824664em;"><span style="top:-3.063em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span><span style="margin-right:0.02778em;">r</span><span>−</span><span>i</span></span></span></span></span></span></span></span></span></span></span></span><span>​</span></span><span><span style="height:0.686em;"><span></span></span></span></span></span><span></span></span><span style="top:0em;"><span>}</span></span></span></span></span></span></span></p>
@@ -162,7 +162,7 @@ $$
 </code></pre>
 <div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br></div></div></details>
 <ul>
-<li><a href="https://vuepress-theme-hope.github.io/guide/feature/markdown/tex/" target="_blank" rel="noopener noreferrer">View Detail</a></li>
+<li><a href="https://vuepress-theme-hope.github.io/guide/markdown/tex/" target="_blank" rel="noopener noreferrer">View Detail</a></li>
 </ul>
 <h3 id="demo"> Demo</h3>
 
@@ -406,7 +406,7 @@ document<span>.</span><span>querySelector</span><span>(</span><span>"h1"</span><
 </code></pre>
 <div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br><span>16</span><br><span>17</span><br><span>18</span><br><span>19</span><br><span>20</span><br><span>21</span><br><span>22</span><br><span>23</span><br><span>24</span><br><span>25</span><br></div></div></details>
 <ul>
-<li><a href="https://vuepress-theme-hope.github.io/guide/feature/markdown/demo/" target="_blank" rel="noopener noreferrer">View Detail</a></li>
+<li><a href="https://vuepress-theme-hope.github.io/guide/markdown/demo/" target="_blank" rel="noopener noreferrer">View Detail</a></li>
 </ul>
 <h3 id="presentation"> Presentation</h3>
 <i>Not supported content</i><details><summary>Code</summary>
@@ -443,7 +443,7 @@ $$
 </code></pre>
 <div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br><span>16</span><br><span>17</span><br><span>18</span><br><span>19</span><br><span>20</span><br><span>21</span><br><span>22</span><br><span>23</span><br><span>24</span><br><span>25</span><br><span>26</span><br><span>27</span><br><span>28</span><br><span>29</span><br><span>30</span><br></div></div></details>
 <ul>
-<li><a href="https://vuepress-theme-hope.github.io/guide/feature/markdown/presentation/" target="_blank" rel="noopener noreferrer">View Detail</a></li>
+<li><a href="https://vuepress-theme-hope.github.io/guide/markdown/presentation/" target="_blank" rel="noopener noreferrer">View Detail</a></li>
 </ul>
 <h2 id="other-syntax"> Other Syntax</h2>
 <div><p>custom title</p>
@@ -514,9 +514,9 @@ A custom details container
     <title type="html">page config</title>
     <id>https://vuepress-theme-hope-demo.mrhope.site/vuepress-theme-hope-template/guide/page/</id>
     <link href="https://vuepress-theme-hope-demo.mrhope.site/vuepress-theme-hope-template/guide/page/"/>
-    <updated>2021-02-28T07:48:44.000Z</updated>
+    <updated>2021-02-28T08:22:25.000Z</updated>
     <content type="html"><![CDATA[<h2 id="page-information"> Page information</h2>
-<p>You can set page information in Markdown's Frontmatter.</p>
+<p>You can set page information in Markdown’s Frontmatter.</p>
 <ul>
 <li>
 <p>The author is set to Ms.Hope.</p>
@@ -570,7 +570,7 @@ A custom details container
     <title type="html">Guides</title>
     <id>https://vuepress-theme-hope-demo.mrhope.site/vuepress-theme-hope-template/guide/</id>
     <link href="https://vuepress-theme-hope-demo.mrhope.site/vuepress-theme-hope-template/guide/"/>
-    <updated>2021-02-28T07:48:44.000Z</updated>
+    <updated>2021-02-28T08:22:25.000Z</updated>
     <content type="html"><![CDATA[<h1 id="guides"> Guides</h1>
 <ul>
 <li>
@@ -600,7 +600,7 @@ A custom details container
     <title type="html">Project home</title>
     <id>https://vuepress-theme-hope-demo.mrhope.site/vuepress-theme-hope-template/home/</id>
     <link href="https://vuepress-theme-hope-demo.mrhope.site/vuepress-theme-hope-template/home/"/>
-    <updated>2021-02-28T07:48:44.000Z</updated>
+    <updated>2021-02-28T08:22:25.000Z</updated>
     <content type="html"><![CDATA[<p>This is an example of a normal homepage. You can place your main content here.</p>
 <p>For related descriptions of configuration items, please see <a href="https://vuepress-theme-hope.github.io/guide/layout/home/" target="_blank" rel="noopener noreferrer">Home Page Layout Configuration</a>.</p>
 ]]></content>
@@ -616,7 +616,7 @@ A custom details container
     <title type="html">Intro Page</title>
     <id>https://vuepress-theme-hope-demo.mrhope.site/vuepress-theme-hope-template/intro/</id>
     <link href="https://vuepress-theme-hope-demo.mrhope.site/vuepress-theme-hope-template/intro/"/>
-    <updated>2021-02-28T07:48:44.000Z</updated>
+    <updated>2021-02-28T08:22:25.000Z</updated>
     <content type="html"><![CDATA[<h1 id="intro-page"> Intro Page</h1>
 <p>Place your introducation and profile here.</p>
 ]]></content>
@@ -632,7 +632,7 @@ A custom details container
     <title type="html">Blog Home</title>
     <id>https://vuepress-theme-hope-demo.mrhope.site/vuepress-theme-hope-template/</id>
     <link href="https://vuepress-theme-hope-demo.mrhope.site/vuepress-theme-hope-template/"/>
-    <updated>2021-02-28T07:48:44.000Z</updated>
+    <updated>2021-02-28T08:22:25.000Z</updated>
     <content type="html"><![CDATA[<p>For related configuration documents, please see <a href="https://vuepress-theme-hope.github.io/guide/layout/blog/" target="_blank" rel="noopener noreferrer">blog homepage</a></p>
 ]]></content>
     <author>
@@ -647,8 +647,9 @@ A custom details container
     <title type="html">Slide page</title>
     <id>https://vuepress-theme-hope-demo.mrhope.site/vuepress-theme-hope-template/slides/</id>
     <link href="https://vuepress-theme-hope-demo.mrhope.site/vuepress-theme-hope-template/slides/"/>
-    <updated>2021-02-28T07:48:44.000Z</updated>
-    <content type="html"><![CDATA[<i>Not supported content</i>]]></content>
+    <updated>2021-02-28T08:22:25.000Z</updated>
+    <content type="html"><![CDATA[
+<i>Not supported content</i>]]></content>
     <author>
       <name>Mr.Hope</name>
     </author>
@@ -661,7 +662,7 @@ A custom details container
     <title type="html">组件禁用</title>
     <id>https://vuepress-theme-hope-demo.mrhope.site/vuepress-theme-hope-template/zh/guide/disable/</id>
     <link href="https://vuepress-theme-hope-demo.mrhope.site/vuepress-theme-hope-template/zh/guide/disable/"/>
-    <updated>2021-02-28T07:48:44.000Z</updated>
+    <updated>2021-02-28T08:22:25.000Z</updated>
     <summary type="html"><![CDATA[<p>你可以通过设置页面的 Frontmatter，在页面禁用一些功能。</p>
 ]]></summary>
     <content type="html"><![CDATA[<p>你可以通过设置页面的 Frontmatter，在页面禁用一些功能。</p>
@@ -688,7 +689,7 @@ A custom details container
     <title type="html">密码加密的文章</title>
     <id>https://vuepress-theme-hope-demo.mrhope.site/vuepress-theme-hope-template/zh/guide/encrypt/</id>
     <link href="https://vuepress-theme-hope-demo.mrhope.site/vuepress-theme-hope-template/zh/guide/encrypt/"/>
-    <updated>2021-02-28T07:48:44.000Z</updated>
+    <updated>2021-02-28T08:22:25.000Z</updated>
     <content type="html"><![CDATA[<h1 id="密码加密的文章"> 密码加密的文章</h1>
 <p>实际的文章内容。</p>
 <p>段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字。</p>
@@ -707,7 +708,7 @@ A custom details container
     <title type="html">Markdown 增强</title>
     <id>https://vuepress-theme-hope-demo.mrhope.site/vuepress-theme-hope-template/zh/guide/markdown/</id>
     <link href="https://vuepress-theme-hope-demo.mrhope.site/vuepress-theme-hope-template/zh/guide/markdown/"/>
-    <updated>2021-02-28T07:48:44.000Z</updated>
+    <updated>2021-02-28T08:22:25.000Z</updated>
     <summary type="html"><![CDATA[<p><code>vuepress-theme-hope</code> 通过内置 <a href="https://vuepress-theme-hope.github.io/md-enhance" target="_blank" rel="noopener noreferrer">md-enhance</a>，在 Markdown 中启用了更多的语法与新功能。</p>
 ]]></summary>
     <content type="html"><![CDATA[<p><code>vuepress-theme-hope</code> 通过内置 <a href="https://vuepress-theme-hope.github.io/md-enhance" target="_blank" rel="noopener noreferrer">md-enhance</a>，在 Markdown 中启用了更多的语法与新功能。</p>
@@ -729,7 +730,7 @@ A custom details container
 </code></pre>
 <div><span>1</span><br></div></div></details>
 <ul>
-<li><a href="https://vuepress-theme-hope.github.io/zh/guide/feature/markdown/sup-sub/" target="_blank" rel="noopener noreferrer">点击查看</a></li>
+<li><a href="https://vuepress-theme-hope.github.io/zh/guide/markdown/sup-sub/" target="_blank" rel="noopener noreferrer">点击查看</a></li>
 </ul>
 <h3 id="自定义对齐"> 自定义对齐</h3>
 <div>
@@ -753,7 +754,7 @@ A custom details container
 </code></pre>
 <div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br></div></div></details>
 <ul>
-<li><a href="https://vuepress-theme-hope.github.io/zh/guide/feature/markdown/align/" target="_blank" rel="noopener noreferrer">点击查看</a></li>
+<li><a href="https://vuepress-theme-hope.github.io/zh/guide/markdown/align/" target="_blank" rel="noopener noreferrer">点击查看</a></li>
 </ul>
 <h3 id="脚注"> 脚注</h3>
 <p>此文字有脚注<sup></sup>.</p>
@@ -764,7 +765,7 @@ A custom details container
 </code></pre>
 <div><span>1</span><br><span>2</span><br><span>3</span><br></div></div></details>
 <ul>
-<li><a href="https://vuepress-theme-hope.github.io/zh/guide/feature/markdown/footnote/" target="_blank" rel="noopener noreferrer">点击查看</a></li>
+<li><a href="https://vuepress-theme-hope.github.io/zh/guide/markdown/footnote/" target="_blank" rel="noopener noreferrer">点击查看</a></li>
 </ul>
 <h3 id="标记"> 标记</h3>
 <p>你可以标记 <mark>重要的内容</mark> 。</p>
@@ -773,7 +774,7 @@ A custom details container
 </code></pre>
 <div><span>1</span><br></div></div></details>
 <ul>
-<li><a href="https://vuepress-theme-hope.github.io/zh/guide/feature/markdown/mark/" target="_blank" rel="noopener noreferrer">点击查看</a></li>
+<li><a href="https://vuepress-theme-hope.github.io/zh/guide/markdown/mark/" target="_blank" rel="noopener noreferrer">点击查看</a></li>
 </ul>
 <h3 id="流程图"> 流程图</h3>
 <i>Not supported content</i><details><summary>代码</summary>
@@ -788,7 +789,7 @@ cond(no)->e
 </code></pre>
 <div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br></div></div></details>
 <ul>
-<li><a href="https://vuepress-theme-hope.github.io/zh/guide/feature/markdown/flowchart/" target="_blank" rel="noopener noreferrer">点击查看</a></li>
+<li><a href="https://vuepress-theme-hope.github.io/zh/guide/markdown/flowchart/" target="_blank" rel="noopener noreferrer">点击查看</a></li>
 </ul>
 <h3 id="tex-语法"> Tex 语法</h3>
 <p class='katex-block'><span><span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:2.40003em;vertical-align:-0.95003em;"></span><span><span></span><span><span><span><span style="height:1.37144em;"><span style="top:-2.314em;"><span style="height:3em;"></span><span><span style="margin-right:0.05556em;">∂</span><span><span style="margin-right:0.03588em;">ω</span><span><span><span><span style="height:0.590392em;"><span style="top:-2.9890000000000003em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span style="margin-right:0.02778em;">r</span></span></span></span></span></span></span></span></span></span><span style="top:-3.23em;"><span style="height:3em;"></span><span style="border-bottom-width:0.04em;"></span></span><span style="top:-3.677em;"><span style="height:3em;"></span><span><span><span style="margin-right:0.05556em;">∂</span><span><span><span><span style="height:0.664392em;"><span style="top:-3.063em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span style="margin-right:0.02778em;">r</span></span></span></span></span></span></span></span></span></span></span><span>​</span></span><span><span style="height:0.686em;"><span></span></span></span></span></span><span></span></span><span style="margin-right:0.16666666666666666em;"></span><span><span style="top:0em;"><span>(</span></span><span><span></span><span><span><span><span style="height:1.341392em;"><span style="top:-2.314em;"><span style="height:3em;"></span><span><span style="margin-right:0.03588em;">ω</span></span></span><span style="top:-3.23em;"><span style="height:3em;"></span><span style="border-bottom-width:0.04em;"></span></span><span style="top:-3.677em;"><span style="height:3em;"></span><span><span><span style="margin-right:0.03588em;">y</span><span><span><span><span style="height:0.664392em;"><span style="top:-3.063em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span><span style="margin-right:0.03588em;">ω</span></span></span></span></span></span></span></span></span></span></span></span><span>​</span></span><span><span style="height:0.686em;"><span></span></span></span></span></span><span></span></span><span style="top:0em;"><span>)</span></span></span><span style="margin-right:0.2777777777777778em;"></span><span>=</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:3.027669em;vertical-align:-1.277669em;"></span><span><span style="top:0em;"><span>(</span></span><span><span></span><span><span><span><span style="height:1.341392em;"><span style="top:-2.314em;"><span style="height:3em;"></span><span><span style="margin-right:0.03588em;">ω</span></span></span><span style="top:-3.23em;"><span style="height:3em;"></span><span style="border-bottom-width:0.04em;"></span></span><span style="top:-3.677em;"><span style="height:3em;"></span><span><span><span style="margin-right:0.03588em;">y</span><span><span><span><span style="height:0.664392em;"><span style="top:-3.063em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span><span style="margin-right:0.03588em;">ω</span></span></span></span></span></span></span></span></span></span></span></span><span>​</span></span><span><span style="height:0.686em;"><span></span></span></span></span></span><span></span></span><span style="top:0em;"><span>)</span></span></span><span style="margin-right:0.16666666666666666em;"></span><span><span style="top:0em;"><span>{</span></span><span>(</span><span>lo<span style="margin-right:0.01389em;">g</span></span><span style="margin-right:0.16666666666666666em;"></span><span style="margin-right:0.03588em;">y</span><span><span>)</span><span><span><span><span style="height:0.7143919999999999em;"><span style="top:-3.113em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span style="margin-right:0.02778em;">r</span></span></span></span></span></span></span></span><span style="margin-right:0.2222222222222222em;"></span><span>+</span><span style="margin-right:0.2222222222222222em;"></span><span><span><span><span style="height:1.6513970000000002em;"><span style="top:-1.872331em;margin-left:0em;"><span style="height:3.05em;"></span><span><span><span>i</span><span>=</span><span>1</span></span></span></span><span style="top:-3.050005em;"><span style="height:3.05em;"></span><span><span>∑</span></span></span><span style="top:-4.3000050000000005em;margin-left:0em;"><span style="height:3.05em;"></span><span><span style="margin-right:0.02778em;">r</span></span></span></span><span>​</span></span><span><span style="height:1.277669em;"><span></span></span></span></span></span><span style="margin-right:0.16666666666666666em;"></span><span><span></span><span><span><span><span style="height:1.5016639999999999em;"><span style="top:-2.314em;"><span style="height:3em;"></span><span><span><span style="margin-right:0.03588em;">ω</span><span><span><span><span style="height:0.750664em;"><span style="top:-2.9890000000000003em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>i</span></span></span></span></span></span></span></span></span></span><span style="top:-3.23em;"><span style="height:3em;"></span><span style="border-bottom-width:0.04em;"></span></span><span style="top:-3.677em;"><span style="height:3em;"></span><span><span>(</span><span>−</span><span>1</span><span><span>)</span><span><span><span><span style="height:0.824664em;"><span style="top:-3.063em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>i</span></span></span></span></span></span></span></span><span style="margin-right:0.02778em;">r</span><span style="margin-right:0.16666666666666666em;"></span><span>⋯</span><span style="margin-right:0.16666666666666666em;"></span><span>(</span><span style="margin-right:0.02778em;">r</span><span style="margin-right:0.2222222222222222em;"></span><span>−</span><span style="margin-right:0.2222222222222222em;"></span><span>i</span><span style="margin-right:0.2222222222222222em;"></span><span>+</span><span style="margin-right:0.2222222222222222em;"></span><span>1</span><span>)</span><span>(</span><span>lo<span style="margin-right:0.01389em;">g</span></span><span style="margin-right:0.16666666666666666em;"></span><span style="margin-right:0.03588em;">y</span><span><span>)</span><span><span><span><span style="height:0.824664em;"><span style="top:-3.063em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span><span style="margin-right:0.02778em;">r</span><span>−</span><span>i</span></span></span></span></span></span></span></span></span></span></span></span><span>​</span></span><span><span style="height:0.686em;"><span></span></span></span></span></span><span></span></span><span style="top:0em;"><span>}</span></span></span></span></span></span></span></p>
@@ -800,7 +801,7 @@ $$
 </code></pre>
 <div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br></div></div></details>
 <ul>
-<li><a href="https://vuepress-theme-hope.github.io/zh/guide/feature/markdown/tex/" target="_blank" rel="noopener noreferrer">点击查看</a></li>
+<li><a href="https://vuepress-theme-hope.github.io/zh/guide/markdown/tex/" target="_blank" rel="noopener noreferrer">点击查看</a></li>
 </ul>
 <h3 id="代码案例"> 代码案例</h3>
 
@@ -1044,7 +1045,7 @@ document<span>.</span><span>querySelector</span><span>(</span><span>"h1"</span><
 </code></pre>
 <div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br><span>16</span><br><span>17</span><br><span>18</span><br><span>19</span><br><span>20</span><br><span>21</span><br><span>22</span><br><span>23</span><br><span>24</span><br><span>25</span><br></div></div></details>
 <ul>
-<li><a href="https://vuepress-theme-hope.github.io/zh/guide/feature/markdown/demo/" target="_blank" rel="noopener noreferrer">点击查看</a></li>
+<li><a href="https://vuepress-theme-hope.github.io/zh/guide/markdown/demo/" target="_blank" rel="noopener noreferrer">点击查看</a></li>
 </ul>
 <h3 id="幻灯片"> 幻灯片</h3>
 <i>Not supported content</i><details><summary>代码</summary>
@@ -1081,7 +1082,7 @@ $$
 </code></pre>
 <div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br><span>16</span><br><span>17</span><br><span>18</span><br><span>19</span><br><span>20</span><br><span>21</span><br><span>22</span><br><span>23</span><br><span>24</span><br><span>25</span><br><span>26</span><br><span>27</span><br><span>28</span><br><span>29</span><br><span>30</span><br></div></div></details>
 <ul>
-<li><a href="https://vuepress-theme-hope.github.io/zh/guide/feature/markdown/presentation/" target="_blank" rel="noopener noreferrer">点击查看</a></li>
+<li><a href="https://vuepress-theme-hope.github.io/zh/guide/markdown/presentation/" target="_blank" rel="noopener noreferrer">点击查看</a></li>
 </ul>
 <h2 id="其他语法"> 其他语法</h2>
 <div><p>自定义标题</p>
@@ -1152,7 +1153,7 @@ $$
     <title type="html">页面配置</title>
     <id>https://vuepress-theme-hope-demo.mrhope.site/vuepress-theme-hope-template/zh/guide/page/</id>
     <link href="https://vuepress-theme-hope-demo.mrhope.site/vuepress-theme-hope-template/zh/guide/page/"/>
-    <updated>2021-02-28T07:48:44.000Z</updated>
+    <updated>2021-02-28T08:22:25.000Z</updated>
     <content type="html"><![CDATA[<h2 id="页面信息"> 页面信息</h2>
 <p>你可以在 Markdown 的 Frontmatter 中设置页面信息。</p>
 <ul>
@@ -1208,7 +1209,7 @@ $$
     <title type="html">主要功能与配置演示</title>
     <id>https://vuepress-theme-hope-demo.mrhope.site/vuepress-theme-hope-template/zh/guide/</id>
     <link href="https://vuepress-theme-hope-demo.mrhope.site/vuepress-theme-hope-template/zh/guide/"/>
-    <updated>2021-02-28T07:48:44.000Z</updated>
+    <updated>2021-02-28T08:22:25.000Z</updated>
     <content type="html"><![CDATA[<h1 id="主要功能与配置演示"> 主要功能与配置演示</h1>
 <ul>
 <li>
@@ -1238,7 +1239,7 @@ $$
     <title type="html">项目主页</title>
     <id>https://vuepress-theme-hope-demo.mrhope.site/vuepress-theme-hope-template/zh/home/</id>
     <link href="https://vuepress-theme-hope-demo.mrhope.site/vuepress-theme-hope-template/zh/home/"/>
-    <updated>2021-02-28T07:48:44.000Z</updated>
+    <updated>2021-02-28T08:22:25.000Z</updated>
     <content type="html"><![CDATA[<p>这是普通主页的案例。你可以在这里放置你的主体内容。</p>
 <p>配置项的相关说明请见 <a href="https://vuepress-theme-hope.github.io/zh/guide/layout/home/" target="_blank" rel="noopener noreferrer">首页布局配置</a>。</p>
 ]]></content>
@@ -1254,7 +1255,7 @@ $$
     <title type="html">博客主页</title>
     <id>https://vuepress-theme-hope-demo.mrhope.site/vuepress-theme-hope-template/zh/</id>
     <link href="https://vuepress-theme-hope-demo.mrhope.site/vuepress-theme-hope-template/zh/"/>
-    <updated>2021-02-28T07:48:44.000Z</updated>
+    <updated>2021-02-28T08:22:25.000Z</updated>
     <content type="html"><![CDATA[<p>相关配置文档请见 <a href="https://vuepress-theme-hope.github.io/zh/guide/layout/blog/" target="_blank" rel="noopener noreferrer">博客主页</a></p>
 ]]></content>
     <author>
@@ -1269,8 +1270,9 @@ $$
     <title type="html">幻灯片页</title>
     <id>https://vuepress-theme-hope-demo.mrhope.site/vuepress-theme-hope-template/zh/slides/</id>
     <link href="https://vuepress-theme-hope-demo.mrhope.site/vuepress-theme-hope-template/zh/slides/"/>
-    <updated>2021-02-28T07:48:44.000Z</updated>
-    <content type="html"><![CDATA[<i>Not supported content</i>]]></content>
+    <updated>2021-02-28T08:22:25.000Z</updated>
+    <content type="html"><![CDATA[
+<i>Not supported content</i>]]></content>
     <author>
       <name>Mr.Hope</name>
     </author>
