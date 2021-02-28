@@ -13,13 +13,17 @@ category: Guide
 tag:
   - Page config
   - Guide
+# this page is sticky in article list
+sticky: true
+# this page will appear in aricle channel in home page
+star: true
 # You can customize the footer
 footer: Footer content for test
 ---
 
 ## Page information
 
-You can set page information in Markdown's Frontmatter.
+You can set page information in Markdown’s Frontmatter.
 
 - The author is set to Ms.Hope.
 
@@ -43,7 +47,7 @@ You are free to write your Markdown here.
 
 The theme contains a custom badge:
 
-> A dark blue badge text badge at the end of line. <MyBadge text="Badge text" color="#242378" />
+> A dark blue badge text badge at the end of line. <Badge text="Badge text" color="#242378" />
 
 ## Page structure
 
