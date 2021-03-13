@@ -1,5 +1,6 @@
 ---
 title: Slide page
+icon: slides
 layout: Slide
 ---
 
@@ -77,7 +78,7 @@ You can use all kinds of markup in slides.
 
 Headings will transform to UPPERCASE by default.
 
-Here is paragraph with some **bold**, _italic_, ~~strikethrough~~ text and a [link](https://mrhope.site), and it can auto break itself so you dont need to worry the length.
+Here is paragraph with some **bold**, _italic_, ~~strikethrough~~ text and a [link](https://mrhope.site), and it can auto break itself so you don’t need to worry the length.
 
 --
 

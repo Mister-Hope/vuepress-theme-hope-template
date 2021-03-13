@@ -1,6 +1,6 @@
 {
   "name": "vuepress-theme-hope-template",
-  "version": "1.0.0",
+  "version": "1.21.1",
   "description": "Template for vuepress-theme-hope",
   "scripts": {
     "serve": "vuepress dev src",
@@ -16,6 +16,6 @@
   ],
   "dependencies": {
     "vuepress": "1.8.2",
-    "vuepress-theme-hope": "1.11.0"
+    "vuepress-theme-hope": "1.12.1"
   }
 }

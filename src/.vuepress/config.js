@@ -41,7 +41,6 @@ module.exports = config({
 
     author: "Mr.Hope",
     repo: "https://github.com/vuepress-theme-hope/vuepress-theme-hope",
-    docsRepo: "https://github.com/vuepress-theme-hope/demo",
     docsDir: "src",
 
     nav: [
@@ -128,7 +127,7 @@ module.exports = config({
 
     copyright: true,
 
-    lastUpdate: {
+    git: {
       timezone: "Asia/Shanghai",
     },
 
