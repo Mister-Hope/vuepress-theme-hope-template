@@ -9,5 +9,5 @@ yarn create vuepress-theme-hope <dir>
 Or
 
 ```sh
-npx create-vuepress-theme-hope <dir>
+npm init vuepress-theme-hope <dir>
 ```
